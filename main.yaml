@@ -1,0 +1,8 @@
+### **Step 6: Submission**
+
+- Push the code to a public GitHub repository.
+https://github.com/munikrish143/roduct-page-e.g.-Shopify-Amazon/upload/main
+- Make sure the repository includes all the required files (`main.py`, `.env`, `requirements.txt`, `.gitignore`, and `README.md`).
+
+---
+This implementation allows you to extract reviews dynamically from any product page while handling pagination and CSS identification using GPT-4.
